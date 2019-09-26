@@ -6,7 +6,7 @@
 - License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 An addon to transmit contact form 7 entries to remote API using POST or GET.
-**This is a forked project from author [Kenny Meyer](https://github.com/kennym)**
+**This is a forked project from author [Kenny Meyer](https://github.com/kennym/cf7-to-api)**
 
 ## Description
 
